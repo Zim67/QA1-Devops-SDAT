@@ -1,8 +1,17 @@
 # QA1-Devops-SDAT
 
-Course Name: Software Design, Architecture, Testing and DevOps  
+---
 
-Instructions:
+# Course Name: Software Design, Architecture, Testing and DevOps  
+
+---
+
+# Description: 
+Software Development assessment project covering software design, architecture, testing, and DevOps practices.
+
+----
+
+# Instructions:
 
 This QAP covers aspects from both DevOps and Software Design, Architecture and Testing.
 
